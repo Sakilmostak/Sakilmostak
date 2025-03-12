@@ -21,6 +21,6 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sakilmostak)
+- [LinkedIn]([https://www.linkedin.com/in/sakilmostak](https://www.linkedin.com/in/sk-sakil-mostak-0a7126233/))
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on any project.
