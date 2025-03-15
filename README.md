@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on various open-source projects
-- 🌱 I’m currently learning advanced JavaScript frameworks and cloud computing
+- 🌱 I’m invested in learning advanced JavaScript frameworks and cloud computing
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about web development, JavaScript, Rust, and cloud technologies
 - 📫 How to reach me: skmahim71@gmail.com
