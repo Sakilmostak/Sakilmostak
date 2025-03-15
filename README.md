@@ -20,6 +20,12 @@
 
 ![Sakilmostak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakilmostak&show_icons=true&theme=radical)
 
+  ## 🎬 Demo
+🌟 You can try some of my project here:
+  - [Ipod](https://ipod-clone.vercel.app/)
+  - [Interactive Array vs Linked List](https://array-vs-linked-list.vercel.app/)
+
+
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sakilmostak](https://www.linkedin.com/in/sk-sakil-mostak-0a7126233/))
