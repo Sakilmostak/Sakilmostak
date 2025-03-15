@@ -12,8 +12,9 @@
 ## 🛠️ Languages and Tools
 
 - **Languages**: JavaScript, C++, Rust
-- **Frameworks**: React, Node.js, Express
+- **Frameworks**: React, Node.js, Express, Svelte
 - **Tools**: Git, Docker
+- **Database**: Postgres
 
 ## 📈 GitHub Stats
 
