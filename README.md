@@ -11,17 +11,13 @@
 
 ## Languages and Tools
 
-- **Languages**: JavaScript, C++, Rust
+- **Languages**: C++, Rust, Python
 - **Frameworks**: React, Node.js, Express, Svelte
-- **Tools**: Git, Docker
-- **Database**: Postgres
-
-## GitHub Stats
-
-![Sakilmostak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakilmostak&show_icons=true&theme=radical)
+- **Tools**: Git, Docker, Grafana, Kafka, Clickhouse
+- **Database**: SQL(Postgres) and Vector Database (VectorPg)
 
   ## Demo
-🌟 You can try some of my project here:
+You can try some of my project here:
   - [Ipod](https://ipod-clone.vercel.app/)
   - [Interactive Array vs Linked List](https://array-vs-linked-list.vercel.app/)
 
