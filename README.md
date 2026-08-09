@@ -1,32 +1,32 @@
 # Hi there, I'm Sakil Mostak 👋
 
-## 🚀 About Me
+## About Me
 
-- 🔭 I’m currently working on various open-source projects
-- 🌱 I’m invested in learning advanced JavaScript frameworks and cloud computing
-- 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about web development, JavaScript, Rust, and cloud technologies
-- 📫 How to reach me: skmahim71@gmail.com
-- ⚡ Fun fact: I enjoy solving coding challenges and participating in hackathons
+- I’m currently working on various open-source projects
+- I’m invested in learning advanced JavaScript frameworks and cloud computing
+- I’m looking to collaborate on open-source projects
+- Ask me about web development, JavaScript, Rust, and cloud technologies
+- How to reach me: skmahim71@gmail.com
+- Fun fact: I enjoy solving coding challenges and participating in hackathons
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 - **Languages**: JavaScript, C++, Rust
 - **Frameworks**: React, Node.js, Express, Svelte
 - **Tools**: Git, Docker
 - **Database**: Postgres
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Sakilmostak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakilmostak&show_icons=true&theme=radical)
 
-  ## 🎬 Demo
+  ## Demo
 🌟 You can try some of my project here:
   - [Ipod](https://ipod-clone.vercel.app/)
   - [Interactive Array vs Linked List](https://array-vs-linked-list.vercel.app/)
 
 
-## 📫 Connect with Me
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sakilmostak](https://www.linkedin.com/in/sk-sakil-mostak-0a7126233/))
 
